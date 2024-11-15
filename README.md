@@ -1,6 +1,6 @@
 # sorting-visualizer
 
-youtube link : 
+youtube link : https://youtu.be/IVopOGMRjSY
 
 clone it with : git clone https://github.com/vaibhavdevli/sorting-visualizer.git
 
